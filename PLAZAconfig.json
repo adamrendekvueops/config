@@ -1,0 +1,77 @@
+{
+    "type": "equirectangular",
+    "panorama": "https://i.imgur.com/aFEBJwt.png",
+    "autoLoad": true,
+    "compass": true,
+    /*
+     * Uncomment the next line to print the coordinates of mouse clicks
+     * to the browser's developer console, which makes it much easier
+     * to figure out where to place hot spots. Always remove it when
+     * finished, though.
+     */
+    //"hotSpotDebug": true,
+    "hotSpots": [
+        {
+            "pitch": -16.23958377135745,
+            "yaw": -48.3758306708433,
+            "type": "info",
+            "text": "Duplex Outlet",
+            //"URL": "https://artbma.org/"
+        },
+        {
+            "pitch": 18.368099282616182,
+            "yaw": 91.59331712872823,
+            "type": "info",
+            "text": "Honeywell Wall Strobe"
+        },
+        {
+            "pitch": -4.8315028564993225,
+            "yaw": 88.61560420991307,
+            "type": "info",
+            "text": "Wireless Zone Sensor"
+        },
+        {
+            "pitch": 5.27997986356262,
+            "yaw": 81.04897741186221,
+            "type": "info",
+            //"text": "EQ-17"
+            "text": "Steelcase PolyVision - Sans - Board"
+        },
+        {
+            "pitch": -14.768449699809345,
+            "yaw": 7.915539739611811,
+            "type": "info",
+            "text": "Polycom RealPresence Trio 8800 Conference Phone"
+        },
+        {
+            "pitch": 1.2,
+            "yaw": 156.48688822805383,
+            "type": "info",
+            "text": "157.5 sqft"
+        },
+        {
+            "pitch": 1.2,
+            "yaw": 66.52419569637273,
+            "type": "info",
+            "text": "85 sqft"
+        },
+        {
+            "pitch": 1.2,
+            "yaw": 37.343558529251666,
+            "type": "info",
+            "text": "27.5 sqft"
+        },
+        {
+            "pitch": 1.2,
+            "yaw": 4.390317998197476,
+            "type": "info",
+            "text": "157.5 sqft"
+        },
+        {
+            "pitch": 1.2,
+            "yaw": -102.65351708476534,
+            "type": "info",
+            "text": "112.5 sqft"
+        }
+    ]
+}
